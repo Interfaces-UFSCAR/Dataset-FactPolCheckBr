@@ -5,4 +5,4 @@ Repositório contendo dataset respectivo a dados de fake news obtidas a partir d
 Os dados em formato CSV podem ser encontrados no diretório "dados"
 
 # Visualização
-Para simples visualização, baixe o conteúdo do diretório "visualização" e abra o arquivo index.html (requer navegador).
+Para simples visualização, baixe o conteúdo do diretório "visualizacao" e abra o arquivo index.html (requer navegador).
