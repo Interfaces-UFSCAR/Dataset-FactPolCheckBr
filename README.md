@@ -2,7 +2,7 @@
 Repositório contendo dataset respectivo a dados de fake news obtidas a partir de um conjunto de diferentes fontes.
 
 # Dados
-Os dados em formato CSV (com texto da checagem e sem texto da checagem) podem ser encontrados no diretório "dados".
+Os dados em formato CSV (com texto da checagem e sem texto da checagem) podem ser encontrados no diretório "dados". Os dados que incluem os textos das checagens estão agregados no arquivo com_texto.csv.
 
 # Visualização
 Para simples visualização (dados sem texto da checagem), baixe o conteúdo do diretório "visualizacao" e abra o arquivo index.html (requer navegador).
