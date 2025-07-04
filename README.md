@@ -38,7 +38,7 @@ Os dados que incluem os textos das checagens estão agregados no arquivo com_tex
 |----------------------|--------------------------|-----------------:|
 | com_texto.csv        | csv                      | 1882             |
 
-O arquivo possui uma tabela (csv) com as mesmas colunas presentes nos outros arquivos, com a adição e uma nova coluna, contendo o texto que contextualiza a checagem e a notícia checada pela agência, extraído do site da agência de checagem:
+O arquivo possui uma tabela (csv) com as mesmas colunas presentes nos outros arquivos, com a adição de uma nova coluna, contendo o texto que contextualiza a checagem e a notícia checada pela agência, extraído do site da agência de checagem:
 
 | Coluna                          | Definição                                                                  | Tipo                         |
 |---------------------------------|----------------------------------------------------------------------------|-----------------------------:|
