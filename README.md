@@ -43,7 +43,7 @@ O arquivo possui uma tabela (csv) com as mesmas colunas presentes nos outros arq
 | Coluna                          | Definição                                                                  | Tipo                         |
 |---------------------------------|----------------------------------------------------------------------------|-----------------------------:|
 | ...                             | ...                                                                        | ...                          |
-| texto                           | texto contextualizando checagem e notícia chegada (publicado pela agência) | string                       |
+| texto                           | texto contextualizando checagem e notícia checada (publicado pela agência) | string                       |
 
 # Visualização
 Para simples visualização (dados sem texto da checagem), baixe o conteúdo do diretório "visualizacao" e abra o arquivo index.html (requer navegador).
